@@ -9,6 +9,8 @@
 import Cocoa
 
 class ViewController: NSViewController {
+    
+    let exapmle = "example"
 
     override func viewDidLoad() {
         super.viewDidLoad()
